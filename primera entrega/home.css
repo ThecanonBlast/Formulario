@@ -1,0 +1,9 @@
+#Cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#tablas{
+    display: flex;
+    justify-content: space-evenly;
+}
